@@ -1,0 +1,4 @@
+com\esmt\sn\mpisi2\entities\Course.class
+com\esmt\sn\mpisi2\controller\CourseController.class
+com\esmt\sn\mpisi2\entities\Student.class
+com\esmt\sn\mpisi2\Tp2SpringApplication.class
